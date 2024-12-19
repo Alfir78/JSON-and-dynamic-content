@@ -5,7 +5,7 @@ const playerInfo = {
         "id": 1,
         "title": "Sachin Tendulkar - Cricket",
         "description": "Known as the 'God of Cricket,' Sachin Tendulkar holds almost every major batting record.",
-        "image": "Sachin.jpg",
+        "image": "sachin.jpg",
         "colors": ["#0077cc", "#ffcc00", "#33cc99"],
         "dimensions": { "width": 800, "height": 600 },
         "creation_date": "2012-12-23",
